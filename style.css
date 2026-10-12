@@ -1,0 +1,51 @@
+/* Midterm Project - Cirera Yahni D. */
+
+body {
+  background-color: lightblue;
+  font-family: Arial;
+  color: darkblue;
+}
+
+h1 {
+  color: navy;
+  text-align: center;
+}
+
+h2 {
+  color: blue;
+  text-align: center;
+  border-bottom: 2px solid navy;
+}
+
+h3 {
+  color: darkblue;
+}
+
+h4,
+h5,
+h6 {
+  color: blue;
+}
+
+a {
+  color: navy;
+}
+
+img {
+  border: 3px solid navy;
+  display: block;
+  margin: auto;
+}
+
+p {
+  text-align: justify;
+}
+
+ul,
+ol {
+  margin-left: 40px;
+}
+
+hr {
+  border: 2px solid blue;
+}
